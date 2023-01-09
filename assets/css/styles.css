@@ -264,7 +264,7 @@ img {
 
 /* ===== ABOUT =====*/
 section.about {
-  padding: 20vh 15px;
+  padding: 10vh 15px 0px 15px;
 }
 .about-container {
   row-gap: 2rem;
@@ -468,17 +468,17 @@ img.man-icons {
 }
 .project-subtitle {
   margin-bottom: var(--mb-4);
-  padding-bottom: 3.5rem;
+  /* padding-bottom: 3.5rem; */
 }
 .small-btn {
   padding: 0.3rem 1.3rem;
   font-weight: 400;
   margin: 1rem;
 }
-.project-btns {
+/* .project-btns {
   position: absolute;
   bottom: 0;
-}
+} */
 
 /* ===== CONTACT =====*/
 .contact-input {
